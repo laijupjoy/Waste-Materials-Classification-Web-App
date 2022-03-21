@@ -1,7 +1,7 @@
 # Waste-Materials-Classification-Web-App
 
 
-This repository consists of files required for end to end implementation and deployment of Waste-Materials-Classification-Web-Application using Transfer Learning.
+This repository consists of files required for end to end implementation and deployment of Waste-Materials-Classification-Web-Application using Transfer Learning VGG16.
 
 ## Table of Contents
   * [About the App](#about-the-app)
